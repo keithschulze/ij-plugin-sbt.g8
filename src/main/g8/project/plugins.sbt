@@ -1,1 +1,1 @@
-addSbtPlugin("net.sf.ij-plugins" % "sbt-imagej" % "2.0.0")
+addSbtPlugin("com.eed3si9n" % "sbt-assembly" % "0.14.4")
